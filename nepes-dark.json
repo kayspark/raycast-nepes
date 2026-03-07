@@ -1,0 +1,20 @@
+{
+  "name": "Nepes Dark",
+  "appearance": "dark",
+  "colors": {
+    "background": "#1E1C1A",
+    "backgroundSecondary": "#2E2C2A",
+    "text": "#DCD8D4",
+    "textSecondary": "#B6B0AC",
+    "tint": "#6A84CA",
+    "loader": "#6A84CA",
+    "selection": "#3E3A38",
+    "separator": "#3E3A38",
+    "red": "#E1575C",
+    "orange": "#FEA413",
+    "yellow": "#E8C55A",
+    "green": "#43AD49",
+    "blue": "#6A84CA",
+    "purple": "#A274C3"
+  }
+}

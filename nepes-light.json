@@ -1,0 +1,20 @@
+{
+  "name": "Nepes Light",
+  "appearance": "light",
+  "colors": {
+    "background": "#F8F8F8",
+    "backgroundSecondary": "#E7E6E6",
+    "text": "#1C1C1E",
+    "textSecondary": "#3A3A3E",
+    "tint": "#23438E",
+    "loader": "#23438E",
+    "selection": "#D8D7D7",
+    "separator": "#D8D7D7",
+    "red": "#C4181F",
+    "orange": "#D08A10",
+    "yellow": "#866E1C",
+    "green": "#2A8030",
+    "blue": "#23438E",
+    "purple": "#7A4FA0"
+  }
+}
