@@ -6,15 +6,15 @@
     "backgroundSecondary": "#2E2C2A",
     "text": "#DCD8D4",
     "textSecondary": "#B6B0AC",
-    "tint": "#6A84CA",
-    "loader": "#6A84CA",
+    "tint": "#5C8CFF",
+    "loader": "#5C8CFF",
     "selection": "#3E3A38",
     "separator": "#3E3A38",
-    "red": "#E1575C",
+    "red": "#FF5C5C",
     "orange": "#FEA413",
     "yellow": "#E8C55A",
-    "green": "#43AD49",
-    "blue": "#6A84CA",
+    "green": "#3DDC84",
+    "blue": "#5C8CFF",
     "purple": "#A274C3"
   }
 }
